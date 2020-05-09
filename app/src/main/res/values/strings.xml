@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">Module_One</string>
+    <string name="log_in">Log In</string>
+    <string name="email">Email or Username</string>
+    <string name="password">Password</string>
+    <string name="sign_up_for_fb">Sign Up for Facebook</string>
+    <string name="need_help">Need Help?</string>
+    <string name="welcome">Welcome</string>
 </resources>
